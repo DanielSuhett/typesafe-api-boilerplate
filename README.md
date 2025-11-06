@@ -1,10 +1,7 @@
 # Elysia with Bun runtime
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+<img width="1167" height="644" alt="image" src="https://github.com/user-attachments/assets/29d95b57-e4ee-4cea-9b7c-ed7436f38070" />
+
 
 ## Development
 To start the development server run:
